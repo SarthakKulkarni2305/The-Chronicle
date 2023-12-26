@@ -76,7 +76,8 @@ class LoginPage extends StatelessWidget {
             customAlertDialog(
                 context, 'Wrong password provided for that user.');
           } else {
-            customAlertDialog(context, 'Not valid');
+            customAlertDialog(
+                context, 'Not valid , try again with a verified email');
           }
         }
       }

@@ -37,9 +37,10 @@ class _NewsAppState extends State<NewsApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: FirebaseAuth.instance.currentUser == null
-          ? const LoginPage()
-          : const HomeView(),
+      home: FirebaseAuth.instance.currentUser != null &&
+              FirebaseAuth.instance.currentUser!.emailVerified
+          ? const HomeView()
+          : const LoginPage(),
       routes: routes,
     );
   }

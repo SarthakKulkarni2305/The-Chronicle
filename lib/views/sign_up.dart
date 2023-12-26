@@ -25,6 +25,7 @@ class SignUp extends StatelessWidget {
             email: email.text,
             password: password.text,
           );
+          FirebaseAuth.instance.currentUser!.sendEmailVerification();
           showDialog(
             context: context,
             builder: (context) => AlertDialog(
