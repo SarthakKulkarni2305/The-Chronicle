@@ -1,4 +1,4 @@
- # AymNews 😊
+ # 😊 AymNews 
 
  An application using Flutter that displays news articles
  
