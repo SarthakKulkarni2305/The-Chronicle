@@ -6,13 +6,23 @@
  ## 🚀 Getting Started
  
   ## 📸 Screen Record
+
+  ### 🤵🏻 Login as a guest
   
  
-<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/6bda574e-773b-493a-ae56-9de2e7e4fccc
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/53cd161e-0d30-4280-ae49-88062f7009cf
 "></video>
-<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/5483942b-2040-430a-b4c0-7494ab32f3da
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/451a7611-4ef6-435a-827c-269fe5e954e2
 "></video>
- 
+
+
+
+   ### 📧 Login with email and password
+   <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/db09e7e7-99b1-4238-826a-599936b9aac4
+"></video>
+   <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/22a2ff1a-8453-49e7-a019-33cd22c64da4
+"></video>
+   
 
  ## 🏖️ Screenshots 
  
