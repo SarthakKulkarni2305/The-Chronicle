@@ -10,6 +10,8 @@
  
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/6bda574e-773b-493a-ae56-9de2e7e4fccc
 "></video>
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/5483942b-2040-430a-b4c0-7494ab32f3da
+"></video>
  
 
  ## 🏖️ Screenshots 
