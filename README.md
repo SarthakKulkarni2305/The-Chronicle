@@ -3,7 +3,7 @@
  An application using Flutter that displays news articles
  
 
- ## 🚀 Getting Started
+  ## 🚀 Getting Started
  
   ## 📸 Screen Record
 
@@ -40,16 +40,25 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/c0b732a9-d9c2-41c7-bd44-774f2b960d51" width="200" >
  </div>
 
- ## 🛠 Dependencies
+ ## 🎯 Dependencies
 
-
+ 
  #### firebase_core: ^2.24.2 
+  [firebase_core](https://pub.dev/packages/firebase_core) - A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
  #### firebase_auth: ^4.15.3 
+  [firebase_auth](https://pub.dev/packages/firebase_auth) - A Flutter plugin to use the Firebase Authentication API.
  #### firebase_messaging: ^14.7.9 
+  [firebase_messaging](https://pub.dev/packages/firebase_messaging) - A Flutter plugin to use the Firebase Cloud Messaging API.
  #### cached_network_image: ^3.3.0 
+  [cached_network_image](https://pub.dev/packages/cached_network_image) -  A flutter library to show images from the internet and keep them in the cache directory.
  #### webview_flutter: ^4.4.2 
+  [webview_flutter](https://pub.dev/packages/webview_flutter) - A Flutter plugin that provides a WebView widget.
  #### dio: ^5.4.0  
+  [dio](https://pub.dev/packages/dio) -A powerful HTTP networking package for Dart/Flutter, supports Global configuration, Interceptors, FormData, Request cancellation, File uploading/downloading, Timeout, Custom adapters, Transformers, etc.
  #### flutter_screenutil: ^5.9.0 
+  [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) - A flutter plugin for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes!
+
+
   
 
 
