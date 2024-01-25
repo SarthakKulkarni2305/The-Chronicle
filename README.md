@@ -1,9 +1,12 @@
  # 😊 AymNews 
 
  An application using Flutter that displays news articles
+
+ <br/>
  
 
   ## 🚀 Getting Started
+  <br/>
  
   ## 📸 Screen Record
 
@@ -15,13 +18,15 @@
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/451a7611-4ef6-435a-827c-269fe5e954e2
 "></video>
 
-
+<br/>
 
    ### 📧 Login with email and password
    <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/db09e7e7-99b1-4238-826a-599936b9aac4
 "></video>
    <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/22a2ff1a-8453-49e7-a019-33cd22c64da4
 "></video>
+
+<br/>
    
 
  ## 🏖️ Screenshots 
@@ -39,6 +44,8 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/a921c33d-a898-40e7-bd01-bf495a70e84e" width="200" >
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/c0b732a9-d9c2-41c7-bd44-774f2b960d51" width="200" >
  </div>
+
+ <br/>
 
  ## 🎯 Dependencies
 
@@ -58,6 +65,31 @@
  #### flutter_screenutil: ^5.9.0 
   [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) - A flutter plugin for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes!
 
+  <br/>
+
+
+ ## 🖊️ Contributing
+
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+
+## 🤝Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+  
+  <br/>
+
+  
 # 🌸🌸  Thank You For Your Time 🌸🌸
   
 
